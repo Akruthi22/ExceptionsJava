@@ -1,0 +1,3 @@
+pawel	3,13
+dawid	5,25
+piotr	14,25
